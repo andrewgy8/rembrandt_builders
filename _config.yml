@@ -2,16 +2,16 @@ url: https://y7kim.github.io
 baseurl: /home/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Rembrandt Builders, Inc.
+email: yooll@me.com
+description: "For three decades, Rembrandt Builders, Inc. has been building custom homes in the Washington, D.C. Metropolitan Area."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jim
   pic: 1
-  position: Lead Designer
+  position: Head Home Builder
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Christina
   pic: 2
-  position: Lead Marketer
+  position: Interior'issima
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Keith
   pic: 3
-  position: Lead Developer
+  position: Master Woodworker
   social:
     - title: twitter
       url: #
@@ -42,6 +42,27 @@ people:
     - title: google-plus
       url: #
 
+- name: David
+  pic: 3
+  position: Big Dig Operator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Evo
+  pic: 3
+  position: The Everything Man
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
