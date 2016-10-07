@@ -5,10 +5,10 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 
-img1: 6308_east_halbert/6308_FE_Full.jpg
+img1: 6308_east_halbert/6308_RE_Full.jpg
 alt1: image of a wolf stove
 
-img2: 6308_east_halbert/entry.jpg
+img2: 6308_east_halbert/6308_entry.jpg
 alt2: living room image
 
 img3: 6308_east_halbert/6308_kitch.jpg
