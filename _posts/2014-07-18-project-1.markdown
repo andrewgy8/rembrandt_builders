@@ -1,15 +1,29 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 6601 Seven Locks Road
+subtitle: Bethesda
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date: 2016-09-18
+
+img1: 6601_seven_locks/stove.jpg
+alt1: image of a wolf stove
+
+img2: 6601_seven_locks/living_rm2.jpg
+alt2: living room image
+
+img3: 6601_seven_locks/living_rm.jpg
+alt3: living room image
+
+img4: 6601_seven_locks/kitchen.jpg
+alt4: image of a kitchen
+
+img5: 6601_seven_locks/living_rm2.jpg
+alt5: image-alt
+
+thumbnail: 6601_seven_locks/6601_seven_locks_thumbnail.jpg
+project-date: October 2016
+client: Spec
+category: Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

@@ -1,15 +1,31 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 6604 Seven Locks Rd.
+subtitle: Bethesda, MD
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date: 2015-10-3
+
+img1: 6604_seven_locks/6604_FE.jpg
+alt1: front elevation
+
+img2: 6604_seven_locks/6604_FR.jpg
+alt2: family room image
+
+img3: 6604_seven_locks/6604_Kitc.jpg
+alt3: kitchen image
+
+img4: 6604_seven_locks/6604_LR.jpg
+alt4: living room
+
+img5: 6604_seve_locks/6604_RE.jpg
+alt5: rear elevation
+
+thumbnail: 6604_seven_locks/6604_FSE.jpg
+alt: front-side elevation
+
+project-date: Fall 2015
+client: Sold
+category: Arts and Crafts
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

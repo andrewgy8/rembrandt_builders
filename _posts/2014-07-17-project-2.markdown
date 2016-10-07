@@ -1,11 +1,26 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 6308 East Halbert Dr.
+subtitle: Bethesda
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+
+img1: 6308_east_halbert/6308_FE_Full.jpg
+alt1: image of a wolf stove
+
+img2: 6308_east_halbert/entry.jpg
+alt2: living room image
+
+img3: 6308_east_halbert/6308_kitch.jpg
+alt3: living room image
+
+img4: 6308_east_halbert/6308_LR.jpg
+alt4: image of a kitchen
+
+img5: 6308_east_halbert/6308_MB.jpg
+alt5: image-alt
+
+thumbnail: 6308_east_halbert/6308_FE_Thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -12,74 +12,36 @@ people:
 - name: Jim
   pic: 1
   position: Head Home Builder
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  
 
 - name: Christina
   pic: 2
   position: Interior'issima
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  
 
 - name: Keith
   pic: 3
-  position: Master Woodworker
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Master Artisan
+  
 
 - name: David
-  pic: 3
+  pic: 4
   position: Big Dig Operator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
-- name: Evo
-  pic: 3
-  position: The Everything Man
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/RembrandtBuilders/
+  - title: houzz
+    url: http://www.houzz.es/pro/rembrandt-builders/rembrandt-builderscom?irs=US
+  - title: google-plus
+    url: https://plus.google.com/+RembrandtBuildersBethesda
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 5825 Rolling Dr.
+  - line: Derwood, MD 20855
 
 # Build settings
 markdown: kramdown

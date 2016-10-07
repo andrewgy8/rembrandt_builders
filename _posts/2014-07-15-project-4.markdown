@@ -1,12 +1,52 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 6422 Brookes Ln.
+subtitle: Bethesda, MD
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+
+img1: 6422_brookes_ln/FE.jpg
+alt1: image of a wolf stove
+
+img2: 6422_brookes_ln/entry.jpg
+alt2: living room image
+
+img3: 6422_brookes_ln/dining.jpg
+alt3: living room image
+
+img4: 6422_brookes_ln/wine.jpg
+alt4: image of a kitchen
+
+img5: 6422_brookes_ln/wine2.jpg
+alt5: image-alt
+
+img6: 6422_brookes_ln/study.jpg
+alt1: image of a wolf stove
+
+img7: 6422_brookes_ln/living.jpg
+alt2: living room image
+
+img8: 6422_brookes_ln/LR.jpg
+alt3: living room image
+
+img9: 6422_brookes_ln/kitch.jpg
+alt4: image of a kitchen
+
+img10: 6422_brookes_ln/kitch2.jpg
+alt5: image-alt
+
+img11: 6422_brookes_ln/MB.jpg
+alt1: image of a wolf stove
+
+img12: 6422_brookes_ln/eat.jpg
+alt2: living room image
+
+img13: 6422_brookes_ln/garage.jpg
+alt3: living room image
+
+thumbnail: 6422_brookes_ln/FE-thumb.jpg
 alt: image-alt
+
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
