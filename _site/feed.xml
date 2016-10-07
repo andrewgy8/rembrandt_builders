@@ -3,19 +3,19 @@
   <channel>
     <title>Rembrandt Builders, Inc.</title>
     <description>For three decades, Rembrandt Builders, Inc. has been building custom homes in the Washington, D.C. Metropolitan Area.</description>
-    <link>https://y7kim.github.io/home//</link>
-    <atom:link href="https://y7kim.github.io/home//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Oct 2016 17:55:49 +0200</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2016 17:55:49 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/home//</link>
+    <atom:link href="http://localhost:4000/home//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Oct 2016 17:59:11 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 17:59:11 +0200</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>6601 Seven Locks Road</title>
         <description>
 </description>
         <pubDate>Sun, 18 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/home//development/2016/09/18/project-1/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/home//development/2016/09/18/project-1/</guid>
+        <link>http://localhost:4000/home//development/2016/09/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/home//development/2016/09/18/project-1/</guid>
         
         
         <category>Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Sat, 03 Oct 2015 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/home//arts%20and%20crafts/2015/10/03/project-3/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/home//arts%20and%20crafts/2015/10/03/project-3/</guid>
+        <link>http://localhost:4000/home//arts%20and%20crafts/2015/10/03/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/home//arts%20and%20crafts/2015/10/03/project-3/</guid>
         
         
         <category>Arts and Crafts</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/home//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/home//web%20development/2014/07/17/project-2/</guid>
+        <link>http://localhost:4000/home//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-        <link>https://y7kim.github.io/home//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/home//web%20development/2014/07/15/project-4/</guid>
+        <link>http://localhost:4000/home//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/home//web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
