@@ -274,7 +274,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/home//img/HomePic.jpg');
+    background-image: url('/img/HomePic.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -663,7 +663,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/home//img/map-image.png');
+    background-image: url('/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
