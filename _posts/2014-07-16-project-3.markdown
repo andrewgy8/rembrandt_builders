@@ -17,7 +17,7 @@ alt3: kitchen image
 img4: 6604_seven_locks/6604_LR.jpg
 alt4: living room
 
-img5: 6604_seve_locks/6604_RE.jpg
+img5: 6604_seven_locks/6604_RE.jpg
 alt5: rear elevation
 
 thumbnail: 6604_seven_locks/6604_FSE.jpg
