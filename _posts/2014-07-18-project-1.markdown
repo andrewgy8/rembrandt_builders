@@ -5,23 +5,39 @@ layout: default
 modal-id: 1
 date: 2016-09-18
 
-img1: 6601_seven_locks/stove.jpg
+img1: 6601_seven_locks/FSE.jpg
 alt1: image of a wolf stove
 
-img2: 6601_seven_locks/living_rm2.jpg
+img2: 6601_seven_locks/FE.jpg
 alt2: living room image
 
-img3: 6601_seven_locks/living_rm.jpg
+img3: 6601_seven_locks/FR.jpeg
 alt3: living room image
 
-img4: 6601_seven_locks/kitchen.jpg
+img4: 6601_seven_locks/Study.jpeg
 alt4: image of a kitchen
 
-img5: 6601_seven_locks/living_rm2.jpg
+img5: 6601_seven_locks/LR.jpeg
 alt5: image-alt
 
-thumbnail: 6601_seven_locks/6601_seven_locks_thumbnail.jpg
+img6: 6601_seven_locks/LR2.jpeg
+alt6: image-alt
+
+img7: 6601_seven_locks/Kitch.jpeg
+alt7: image-alt
+
+img8: 6601_seven_locks/kitch2.jpeg
+alt8: image-alt
+
+img9: 6601_seven_locks/DR.jpeg
+alt9: image-alt
+
+img10: 6601_seven_locks/MB.jpeg
+alt10: image-alt
+
+thumbnail: 6601_seven_locks/FE-thumb.jpg
 project-date: October 2016
+
 client: Spec
 category: Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
