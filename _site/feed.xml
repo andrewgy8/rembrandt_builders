@@ -5,8 +5,8 @@
     <description>For three decades, Rembrandt Builders, Inc. has been building custom homes in the Washington, D.C. Metropolitan Area.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Oct 2016 16:13:11 +0200</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 16:13:11 +0200</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2016 16:45:57 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2016 16:45:57 +0200</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -14,50 +14,42 @@
         <description>
 </description>
         <pubDate>Sun, 18 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/development/2016/09/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/09/18/project-1/</guid>
+        <link>http://localhost:4000/2016/09/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/09/18/project-1/</guid>
         
-        
-        <category>Development</category>
         
       </item>
     
       <item>
-        <title>6604 Seven Locks Rd.</title>
+        <title>6604 Seven Locks Road</title>
         <description>
 </description>
         <pubDate>Sat, 03 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/arts%20and%20crafts/2015/10/03/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/arts%20and%20crafts/2015/10/03/project-3/</guid>
+        <link>http://localhost:4000/2015/10/03/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/03/project-3/</guid>
         
-        
-        <category>Arts and Crafts</category>
         
       </item>
     
       <item>
-        <title>6308 East Halbert Dr.</title>
+        <title>6308 East Halbert Drive</title>
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
+        <link>http://localhost:4000/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/17/project-2/</guid>
         
-        
-        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>6422 Brookes Ln.</title>
+        <title>6422 Brookes Lane</title>
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
+        <link>http://localhost:4000/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/15/project-4/</guid>
         
-        
-        <category>Web Development</category>
         
       </item>
     

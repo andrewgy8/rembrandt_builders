@@ -5,13 +5,13 @@ layout: default
 modal-id: 1
 date: 2016-09-18
 
-img1: 6601_seven_locks/FSE.jpg
+img1: 6601_seven_locks/FE-edit.jpg
 alt1: image of a wolf stove
 
-img2: 6601_seven_locks/FE.jpg
+img2: 6601_seven_locks/FR.jpeg
 alt2: living room image
 
-img3: 6601_seven_locks/FR.jpeg
+img3: 6601_seven_locks/DR.jpeg
 alt3: living room image
 
 img4: 6601_seven_locks/Study.jpeg
@@ -29,17 +29,14 @@ alt7: image-alt
 img8: 6601_seven_locks/kitch2.jpeg
 alt8: image-alt
 
-img9: 6601_seven_locks/DR.jpeg
+img9: 6601_seven_locks/MB.jpeg
 alt9: image-alt
 
-img10: 6601_seven_locks/MB.jpeg
-alt10: image-alt
 
 thumbnail: 6601_seven_locks/FE-thumb.jpg
-project-date: October 2016
+project-date: October 2013
 
-client: Spec
-category: Development
+client: Sold
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

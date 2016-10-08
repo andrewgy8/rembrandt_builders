@@ -1,6 +1,6 @@
 ---
-title: 6604 Seven Locks Rd.
-subtitle: Bethesda, MD
+title: 6604 Seven Locks Road
+subtitle: Bethesda
 layout: default
 modal-id: 3
 date: 2015-10-3
@@ -25,7 +25,6 @@ alt: front-side elevation
 
 project-date: Fall 2015
 client: Sold
-category: Arts and Crafts
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

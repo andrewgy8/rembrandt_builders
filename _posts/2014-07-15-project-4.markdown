@@ -1,6 +1,6 @@
 ---
-title: 6422 Brookes Ln.
-subtitle: Bethesda, MD
+title: 6422 Brookes Lane
+subtitle: Bethesda
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -47,9 +47,8 @@ alt3: living room image
 thumbnail: 6422_brookes_ln/FE-thumb.jpg
 alt: image-alt
 
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: September 2016
+client: Sold
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
