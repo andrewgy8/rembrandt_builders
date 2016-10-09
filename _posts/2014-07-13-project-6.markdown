@@ -1,10 +1,27 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 5504 Scioto Road
+subtitle: Bethesda
 layout: default
 modal-id: 6
 date: 2018-07-15
-img: roundicons.png
+img1: 5309_iroquois/FE.jpg
+alt1: image of a wolf stove
+
+img2: 5309_iroquois/Entry.jpg
+alt2: living room image
+
+img3: 5309_iroquois/Entry2.jpg
+alt3: living room image
+
+img4: 5309_iroquois/LR.jpg
+alt4: image of a kitchen
+
+img5: 5309_iroquois/LR2.jpg
+alt5: image-alt
+
+img6: 5309_iroquois/Study.jpg
+alt6: image of a wolf stove
+
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
