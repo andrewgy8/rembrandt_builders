@@ -12,21 +12,25 @@ people:
 - name: Jim
   pic: 1
   position: Head Home Builder
+  alt: Jim, CEO and founder of Rembrandt Builders
   
 
 - name: Christina
   pic: 2
   position: Interior'issima
+  alt: Christina, Interior Designer For Rembrandt Builders
   
 
 - name: Keith
   pic: 3
   position: Master Artisan
+  alt: Keith, master artisan and carpenter for Rembrandt Builders
   
 
 - name: David
   pic: 4
   position: Big Dig Operator
+  alt: David, equipment operator for Rembrandt Builders
 
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
