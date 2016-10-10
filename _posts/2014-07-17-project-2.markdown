@@ -6,22 +6,22 @@ modal-id: 2
 date: 2014-07-17
 
 img1: 6308_east_halbert/6308_RE_Full.jpg
-alt1: image of a wolf stove
+alt1: Front Elevation of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 
 img2: 6308_east_halbert/6308_entry.jpg
-alt2: living room image
+alt2: Entry way of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 
 img3: 6308_east_halbert/6308_kitch.jpg
-alt3: living room image
+alt3: Kitchen of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 
 img4: 6308_east_halbert/6308_LR.jpg
-alt4: image of a kitchen
+alt4: Living room of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 
 img5: 6308_east_halbert/6308_MB.jpg
-alt5: image-alt
+alt5: Master bathroom of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 
 thumbnail: 6308_east_halbert/6308_FE_Thumb.jpg
-alt: image-alt
+alt: Front Elevation thumbnail image of a luxury home at 6308 East Halbert Drive, Bethesda, Maryland
 project-date: April 2013
 client: Sold
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.

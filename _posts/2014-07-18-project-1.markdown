@@ -6,34 +6,35 @@ modal-id: 1
 date: 2016-09-18
 
 img1: 6601_seven_locks/FE-edit.jpg
-alt1: image of a wolf stove
+alt1: Front Elevation of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img2: 6601_seven_locks/FR.jpeg
-alt2: living room image
+alt2: Family room of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img3: 6601_seven_locks/DR.jpeg
-alt3: living room image
+alt3: Dining Room of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img4: 6601_seven_locks/Study.jpeg
-alt4: image of a kitchen
+alt4: Study room of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img5: 6601_seven_locks/LR.jpeg
-alt5: image-alt
+alt5: Living Room of a  custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img6: 6601_seven_locks/LR2.jpeg
-alt6: image-alt
+alt6: Alternate living room image of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img7: 6601_seven_locks/Kitch.jpeg
-alt7: image-alt
+alt7: Kitchen of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img8: 6601_seven_locks/kitch2.jpeg
-alt8: image-alt
+alt8: Alternate kitchen image of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 img9: 6601_seven_locks/MB.jpeg
-alt9: image-alt
+alt9: Master bathroom of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 
 
 thumbnail: 6601_seven_locks/FE-thumb.jpg
+alt: Front Elevation thumbnail of a custom luxury home at 6601 Seven Locks Road, Bethesda, Maryland
 project-date: October 2013
 
 client: Sold
