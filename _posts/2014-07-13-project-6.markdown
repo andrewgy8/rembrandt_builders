@@ -3,29 +3,47 @@ title: 5504 Scioto Road
 subtitle: Bethesda
 layout: default
 modal-id: 6
-date: 2018-07-15
-img1: 5309_iroquois/FE.jpg
-alt1: image of a wolf stove
+date: 2015-07-15
 
-img2: 5309_iroquois/Entry.jpg
-alt2: living room image
+img1: 5504_scioto/FE.jpg
+alt1: Front Elevation of a custom luxury home at 5504 Scioto Road, Bethesda, Maryland
 
-img3: 5309_iroquois/Entry2.jpg
-alt3: living room image
+img2: 5504_scioto/DR.jpg
+alt2: Dining room of a custom luxury home at 5504 Scioto Road, Bethesda, Maryland
 
-img4: 5309_iroquois/LR.jpg
-alt4: image of a kitchen
+img3: 5504_scioto/FR.jpg
+alt3: Family Room of a luxury home at 5504 Scioto Road, Bethesda, Maryland
 
-img5: 5309_iroquois/LR2.jpg
-alt5: image-alt
+img4: 5504_scioto/LR.jpg
+alt4: Living romm of a luxury home at 5504 Scioto Road, Bethesda, Maryland
 
-img6: 5309_iroquois/Study.jpg
-alt6: image of a wolf stove
+img5: 5504_scioto/MB.jpg
+alt5: Master bath of a luxury home at 5504 Scioto Road, Bethesda, Maryland
 
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img6: 5504_scioto/Kitch.jpg
+alt6: Kitchen of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+img7: 5504_scioto/Kitch2.jpg
+alt7: Kitchen from a different angle of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+img8: 5504_scioto/Powder.jpg
+alt8: Powder room of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+img9: 5504_scioto/Tub.jpg
+alt9: Master bath tub of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+img10: 5504_scioto/FR2.jpg
+alt10: Family room of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+img11: 5504_scioto/Bath.jpg
+alt11: Master Bathroom Elevation of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+thumbnail: 5504_scioto/FE-thumb.jpg
+alt: Front Elevation thumbnail image of a luxury home at 5504 Scioto Road, Bethesda, Maryland
+
+project-date: June 2014
+client: Sold
+
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
