@@ -6,46 +6,46 @@ modal-id: 5
 date: 2015-07-14
 
 img1: 5309_iroquois/FE.jpg
-alt1: image of a wolf stove
+alt1: Front Elevation of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img2: 5309_iroquois/Entry.jpg
-alt2: living room image
+alt2: Entry way of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img3: 5309_iroquois/Entry2.jpg
-alt3: living room image
+alt3: Alternate entry way image of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img4: 5309_iroquois/LR.jpg
-alt4: image of a kitchen
+alt4: Living room of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img5: 5309_iroquois/LR2.jpg
-alt5: image-alt
+alt5: Alternate living room image of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img6: 5309_iroquois/Study.jpg
-alt6: image of a wolf stove
+alt6: Study room of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img7: 5309_iroquois/LR3.jpg
-alt7: living room image
+alt7: Second alternate angle of living room of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img8: 5309_iroquois/MB1.jpg
-alt8: living room image
+alt8: Master bathroom of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img9: 5309_iroquois/Kitch.jpg
-alt9: image of a kitchen
+alt9: Kitchen area of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img10: 5309_iroquois/Kitch2.jpg
-alt10: image-alt
+alt10: Alternate kitchen area of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img11: 5309_iroquois/Kitch4.jpg
-alt11: image of a wolf stove
+alt11: Alternate kitchen area of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img12: 5309_iroquois/Kitch3.jpg
-alt12: living room image
+alt12: Alternate kitchen area of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 img13: 5309_iroquois/RE.jpg
-alt13: living room image
+alt13: Rear Elevation of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 thumbnail: 5309_iroquois/FE-thumb.jpg
-alt: image-alt
+alt: Front Elevation thumbnail of a luxury home at 5309 Iroquois Road, Bethesda, Maryland
 
 project-date: September 2016
 client: Sold

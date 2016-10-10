@@ -6,22 +6,22 @@ modal-id: 3
 date: 2015-10-3
 
 img1: 6604_seven_locks/6604_FE.jpg
-alt1: front elevation
+alt1: Front Elevation of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 img2: 6604_seven_locks/6604_FR.jpg
-alt2: family room image
+alt2: Family Room of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 img3: 6604_seven_locks/6604_Kitc.jpg
-alt3: kitchen image
+alt3: Kitchen of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 img4: 6604_seven_locks/6604_LR.jpg
-alt4: living room
+alt4: Living room of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 img5: 6604_seven_locks/6604_RE.jpg
-alt5: rear elevation
+alt5: Rear Elevation of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 thumbnail: 6604_seven_locks/6604_FSE.jpg
-alt: front-side elevation
+alt: front-side elevation thumbnail of a luxury home at 6604 Seven Locks Road, Bethesda, Maryland
 
 project-date: Fall 2015
 client: Sold

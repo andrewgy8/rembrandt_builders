@@ -6,46 +6,46 @@ modal-id: 4
 date: 2014-07-15
 
 img1: 6422_brookes_ln/FE.jpg
-alt1: image of a wolf stove
+alt1: Front Elevation of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img2: 6422_brookes_ln/entry.jpg
-alt2: living room image
+alt2: Entry way of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img3: 6422_brookes_ln/dining.jpg
-alt3: living room image
+alt3: Dining room of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img4: 6422_brookes_ln/wine.jpg
-alt4: image of a kitchen
+alt4: Wine storage area of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img5: 6422_brookes_ln/wine2.jpg
-alt5: image-alt
+alt5: Alternate wine storage are picture of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img6: 6422_brookes_ln/study.jpg
-alt1: image of a wolf stove
+alt1: Study area of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img7: 6422_brookes_ln/living.jpg
-alt2: living room image
+alt2: Living room of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img8: 6422_brookes_ln/LR.jpg
-alt3: living room image
+alt3: Alternate living room of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img9: 6422_brookes_ln/kitch.jpg
-alt4: image of a kitchen
+alt4: Kitchen of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img10: 6422_brookes_ln/kitch2.jpg
-alt5: image-alt
+alt5: Alternate ktichen photo of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img11: 6422_brookes_ln/MB.jpg
-alt1: image of a wolf stove
+alt1: Master bathroom of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img12: 6422_brookes_ln/eat.jpg
-alt2: living room image
+alt2: Little eating cubby area of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 img13: 6422_brookes_ln/garage.jpg
-alt3: living room image
+alt3: Detached garage of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 thumbnail: 6422_brookes_ln/FE-thumb.jpg
-alt: image-alt
+alt: Front Elevation thumbnail of a luxury home at 6422 Brookes Lane, Bethesda, Maryland
 
 project-date: September 2016
 client: Sold
