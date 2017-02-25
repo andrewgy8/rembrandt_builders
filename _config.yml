@@ -52,4 +52,4 @@ markdown: kramdown
 permalink: pretty
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
-keep_files: ['.well-known/acme-challenge']
+include: ['.well-known/acme-challenge']
