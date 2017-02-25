@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: 
+url: http://www.rembrandt.builders
+baseurl: rembrandt.builders
 
 # Site settings
 title: Rembrandt Builders
@@ -52,3 +52,4 @@ markdown: kramdown
 permalink: pretty
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+keep_files: ['.well-known/acme-challenge']
