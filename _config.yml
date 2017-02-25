@@ -1,5 +1,5 @@
 url: http://www.rembrandt.builders
-baseurl: rembrandt.builders
+baseurl: 
 
 # Site settings
 title: Rembrandt Builders
@@ -52,4 +52,4 @@ markdown: kramdown
 permalink: pretty
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
-include: ['.well-known']
+include: [.well-known]

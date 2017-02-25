@@ -1,0 +1,57 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                            <h2>{{ post.title }}</h2>
+                            <!-- Not sure what should be put here -->
+                            <!-- <p>{{ post.description }}</p> -->
+                            <ul class="list-inline item-details">
+                                <li>Status:
+                                    <strong><a>{{ post.client }}</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong>{{ post.project-date }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt1 }}">
+                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt2 }}">
+                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt3 }}">
+                            <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered" alt="{{ post.alt4 }}">
+                            <img src="img/portfolio/{{ post.img5 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">
+                            {% if post.img6 %}<img src="img/portfolio/{{ post.img6 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img7 %}<img src="img/portfolio/{{ post.img7 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img8 %}<img src="img/portfolio/{{ post.img8 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img9 %}<img src="img/portfolio/{{ post.img9 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img10 %}<img src="img/portfolio/{{ post.img10 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img11 %}<img src="img/portfolio/{{ post.img11 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img12 %}<img src="img/portfolio/{{ post.img12 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img13 %}<img src="img/portfolio/{{ post.img13 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img14 %}<img src="img/portfolio/{{ post.img14 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img15 %}<img src="img/portfolio/{{ post.img15 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img16 %}<img src="img/portfolio/{{ post.img16 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+                            {% if post.img17 %}<img src="img/portfolio/{{ post.img17 }}" class="img-responsive img-centered" alt="{{ post.alt5 }}">{% endif %}
+
+
+                            
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
